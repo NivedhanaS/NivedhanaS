@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @NivedhanaS
-- 👀 I’m interested in Sports
-- 🌱 I’m currently learning Front-End Development @Spotnack
-- 💞️ I’m looking to collaborate on 
+- 👋 Hello All, I’m @NivedhanaS
+- 🎓 Student at Sri Ramakrishna Institute of Technology Coimbatore
+- 🌱 Currently learning Front-End Development @Spotnack
+- 💞️ Fun facts :Sleeps a lot 
 - 📫 How to reach me
    g-mail : nivedhanasakthivel@gmail.com
    Linked-In : https://www.linkedin.com/in/nivedhana-s-983a8a239
-
